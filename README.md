@@ -25,7 +25,6 @@ Wireshark/
 │   ├── ICMP/
 │   ├── HTTP/
 │   ├── HTTPS-TLS/
-│   ├── FTP/
 │       
 └── Network-Services/
     ├── Traceroute/
